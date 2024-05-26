@@ -1,6 +1,6 @@
 Title:Bike Sales Dashboard
 
-- [Project Execution video](https://drive.google.com/drive/folders/10Vt5rDYCylPJsdflTInDQ_m9c4xH_kW6)
+- [Tableau workbook link](https://drive.google.com/drive/folders/10Vt5rDYCylPJsdflTInDQ_m9c4xH_kW6)
 
 Introduction: Welcome to the Bike Sales Analysis Dashboard project! This Tableau dashboard showcases key sales aspects, including top customers, best-selling products, and geographical impacts. Through detailed analysis, performance against budgeted targets is evaluated, and sales distribution is visualized for comprehensive insights into sales data.
 
